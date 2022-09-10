@@ -6,9 +6,9 @@ After downloading the project please un-rar some of the folders.
 * **Offline Version:** uses open source libraries PhP FFMpeg for Encoding and local disk for storage.
 * **Online Version:** uses Telestram Cloud for video encoding, Amazon S3 for storage, Algolia for Search and Ngrok for localhost.
 * Features
-        * Creating and maintainning the channel.
-        * Views, comments and subscription
-        * Uploading and searching the video.
+   * Creating and maintainning the channel.
+   * Views, comments and subscription
+   * Uploading and searching the video.
 * [ppt](/_resources/video-sharing-site%20-%20vijay.pdf)
 
 ### Screenshots
