@@ -49,3 +49,7 @@ After downloading the project please un-rar some of the folders.
 ![Video Upload](/_resources/Screenshots/video_upload_2.png)
 
 ---
+*Database Class Diagram*
+![database](/_resources/Screenshots/datbase%20class%20dig.png)
+
+---
